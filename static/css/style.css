@@ -1,0 +1,56 @@
+
+/* Style paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #ebccff ;
+    font-family: Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+/* Style level two headers */
+h2 {
+    font-size: 20px;
+    color: #ff99e6;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 24px;
+    color: #ffccf2;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+/* Style tables */
+table {
+    border: 3px solid #f0b3ff;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* Style third paragraph with id */
+#third-paragraph {
+    font-style: italic;
+    color: #4c0080;
+    font-weight: bold;
+}
+
+/* Style based off a class attribute */
+.highlight {
+    background-color: #e600ac;
+    padding: 10px;
+}
+
+/* Named CSS rule block for images */
+img.logo {
+    width: 200px;
+    height: auto;
+}
+
+body {
+  background-color: #cc0099;
+}
+
+
